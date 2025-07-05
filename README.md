@@ -22,3 +22,15 @@ Data-driven analysis of Electric Vehicle specifications (FEV) with Python. Inclu
 - **Matplotlib** & **Seaborn** – visualization
 - **Jupyter Notebook** – development environment
 - **OpenPyXL** – for Excel import/export  
+
+## Feature Engineering Highlights
+
+| Feature Nam          | Description          ,                     |
+|----------------------|--------------------------------------------|
+| power_to_weight      | Engine power divided by vehicle weight     |
+| km_per_kwh           | Efficiency: Range per unit battery         |
+| price_per_km         | Cost per km of range                       |
+| battery_power_product| Interaction feature of battery × power     |
+| log_price            | Log-transformed price to reduce skewness   |
+| price_bin            | Categorical price segmentation (Low–High)  |
+| range_bin            | Categorical range segmentation             |
