@@ -3,9 +3,9 @@ Data-driven analysis of Electric Vehicle specifications (FEV) with Python. Inclu
 
 ## Dataset Overview
 
-**Source:**  - 'FEV-data-Excel.xlsx'
-**Total Columns:** 25
-**Topics Covered:** Price, Range, Battery Capacity, Power, Torque, Weight, Speed, Brand, Charging Capability
+-**Source:**  - 'FEV-data-Excel.xlsx'
+-**Total Columns:** 25
+-**Topics Covered:** Price, Range, Battery Capacity, Power, Torque, Weight, Speed, Brand, Charging Capability
 
 ## 🎯 Project Objectives
 
