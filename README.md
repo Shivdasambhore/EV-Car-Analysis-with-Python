@@ -17,7 +17,7 @@ Data-driven analysis of Electric Vehicle specifications (FEV) with Python. Inclu
 - Extract insights for potential buyers, manufacturers, or investors
 
 ## Technologies Used
-- **Python **
+- **Python**
 - **Pandas** & **NumPy** – data preprocessing
 - **Matplotlib** & **Seaborn** – visualization
 - **Jupyter Notebook** – development environment
